@@ -1,0 +1,5 @@
+这是第二个文件，为了验证git commit命令不会提交工作区中的文件。
+
+然后git status 去查看状态。
+
+untracked files 
